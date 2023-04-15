@@ -18,7 +18,11 @@ Wardroom Details:
 Crew Entertainment System Details:
 - All Crew Entertainment System activities must promote social interaction among the crew.
 - Games must include (but are not limited to) both physical activity games and table games, subject to the following definitions:
+         
          - Physical activity games are those where the participants are not seated, and some level of physical motion is involved.  All seats and tables are stowed.  (Frisbee, miniature golf, and dodgeball are terrestrial examples.)
+        
         - Table games are those played where the participants are seated, and the table is used as a surface.  (Card games, monopoly, and scrabble are terrestrial examples.)
+        
         - Traditional video games are not included in this activity.  In general, if a crew member could play the game in a single player mode alone in their crew quarters that game falls outside the scope of this exercise.
+        
         - Avoid the use of existing games and attempt to come up with new game ideas.
