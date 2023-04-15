@@ -3,7 +3,8 @@ The team John Glenn, composed of Tyler Morris, Lauren Roesler, Luis Aguilar, and
 
 ## Challenge 1: Crew Entertainment System
 
-Given Prompt: 
+Given Prompt:
+
 Mental health is important, and there is no exception for astronauts on long-duration space missions. Using the provided guidelines, develop a Crew Entertainment System that will aid in maintaining the psychological health of an eight-person crew during 1-5 year missions in the Common Habitat, a conceptual design being explored for possible missions across the inner solar system in the post-Artemis timeframe.
 
 Wardroom Details:
