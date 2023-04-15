@@ -22,3 +22,10 @@ Crew Entertainment System Details:
   - Table games are those played where the participants are seated, and the table is used as a surface.  (Card games, monopoly, and scrabble are terrestrial examples.)
   - Traditional video games are not included in this activity.  In general, if a crew member could play the game in a single player mode alone in their crew quarters that game falls outside the scope of this exercise.
   - Avoid the use of existing games and attempt to come up with new game ideas.
+
+
+Requirements:
+- 36 games mininum with a break down of
+  - 24+ Physical Games
+  - 8+ Table Games
+  - 4+ Other Category gamese
