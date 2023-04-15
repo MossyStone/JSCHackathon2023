@@ -1,8 +1,7 @@
 # JSCHackathon2023
 The team John Glenn, composed of Tyler Morris, Lauren Roesler, Luis Aguilar, and Madison Reynolds, solution towards JSC Hack 2023. Team John Glenn worked on solving Challenge 1. They took a collobrative effort on disecting the problem and then mangaging task. Each member contritubed by designing, reasearhcing, and emplimenting one of their games with eachother. Their games focus on mental, physical, and social ascpect of isolation thaat astronaughts would face in year(s) long missions. 
 
-##Challenge 1: 
-##Crew Entertainment System
+##Challenge 1: Crew Entertainment System
 
 Given Prompt: 
 Mental health is important, and there is no exception for astronauts on long-duration space missions. Using the provided guidelines, develop a Crew Entertainment System that will aid in maintaining the psychological health of an eight-person crew during 1-5 year missions in the Common Habitat, a conceptual design being explored for possible missions across the inner solar system in the post-Artemis timeframe.
