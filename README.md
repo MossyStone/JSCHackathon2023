@@ -1,5 +1,5 @@
 # JSCHackathon2023
-The team John Glenn, composed of Tyler Morris, Lauren Roesler, Luis Aguilar, and Madison Reynolds, the solution to JSC Hack 2023. Team John Glenn worked on solving Challenge 1. They took a collaborative effort on dissecting the problem and then manage the task. Each member contributed by designing, researching, and implementing one of their games with each other. Their games focus on the mental, physical, and social aspects of isolation that astronauts would face in the year(s) long missions. 
+The team John Glenn, composed of Tyler Morris, Lauren Roesler, Luis Aguilar, and Madison Reynolds, their solution to JSC Hack 2023 challenge. Team John Glenn worked on solving Challenge 1. They took a collaborative effort on dissecting the problem and then manage the task. Each member contributed by designing, researching, and implementing one of their games with each other. Their games focus on the mental, physical, and social aspects of isolation that astronauts would face in the year(s) long missions. 
 
 ## Challenge 1: Crew Entertainment System
 
